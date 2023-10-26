@@ -13,13 +13,6 @@ I'm UWEPPPP! hhhh Just call me Garfield. I'm a **BlockChain && Java or Go Develo
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=UWEPPPP)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
-
-
 
 <!--
 **UWEPPPP/UWEPPPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
