@@ -8,7 +8,7 @@ I'm UWEPPPP! hhhh Just call me Garfield. I'm a **BlockChain && Java or Go Develo
 
 <!-- Your badges -->
 <!--START_SECTION:waka-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UWEPPPP&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UWEPPPP&size_weight=0.5&count_weight=0.5)
 <!--END_SECTION:waka-->
 <!-- Profile View Count -->
