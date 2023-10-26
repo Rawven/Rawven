@@ -11,6 +11,8 @@ I'm UWEPPPP! hhhh Just call me Garfield. I'm a **BlockChain && Java or Go Develo
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=UWEPPPP&style=flat)
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UWEPPPP&layout=compact&theme=tokyonight)
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=UWEPPPP)](https://github.com/anuraghazra/github-readme-stats)
 
 
