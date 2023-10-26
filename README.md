@@ -11,7 +11,7 @@ I'm UWEPPPP! hhhh Just call me Garfield. I'm a **BlockChain && Java or Go Develo
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=UWEPPPP&style=flat)
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UWEPPPP&style=ConpactlayOut)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UWEPPP&style=ConpactlayOut)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/446a4df0-ef71-4efe-a369-3baa64a31916.svg?style=default)](https://wakatime.com/@446a4df0-ef71-4efe-a369-3baa64a31916)
 
 
