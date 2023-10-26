@@ -18,9 +18,6 @@ I'm JIAHUI LIU! I'm a **BlockChain && Java or Go Developer**:iphone:, looking to
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 
-<!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
-
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
 * Learning some vectors drawing:art: by using Adobe Illustrator.
@@ -39,16 +36,15 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
+  <a href="https://github.com/UWEPPPP?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api?username=UWEPPPP&show_icons=true&theme=algolia&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="UWEPPPP's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=UWEPPPP&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
 <code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
 <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
 <br>
