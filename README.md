@@ -8,6 +8,7 @@ I'm UWEPPPP! hhhh Just call me Garfield. I'm a **BlockChain && Java or Go Develo
 
 <!-- Your badges -->
 <!--START_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UWEPPPP&layout=compact)
 <!--END_SECTION:waka-->
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=UWEPPPP&style=flat)
