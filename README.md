@@ -82,7 +82,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 <!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UWEPPPP/UWEPPPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -96,4 +96,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
+⭐️ From [UWEPPPP](https://github.com/UWEPPPP)
