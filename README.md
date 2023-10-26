@@ -12,22 +12,6 @@ I'm UWEPPPP! hhhh Just call me Garfield. I'm a **BlockChain && Java or Go Develo
 ![](https://komarev.com/ghpvc/?username=UWEPPPP&style=flat)
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 
-### 💼  Things that I'm currently working on: 
-* sleep
-
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/UWEPPPP?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=UWEPPPP&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="UWEPPPP's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=UWEPPPP&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
- <!-- icons -->
-
-</p>
-
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 <!-- Credit -->
