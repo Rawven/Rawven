@@ -11,10 +11,6 @@ I'm UWEPPPP! hhhh Just call me Garfield. I want to be a **BlockChain && Java or 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UWEPPPP&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UWEPPPP&size_weight=0.5&count_weight=0.5)
 <!--END_SECTION:waka-->
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=UWEPPPP&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-[![wakatime](https://wakatime.com/badge/user/446a4df0-ef71-4efe-a369-3baa64a31916.svg?style=default)](https://wakatime.com/@446a4df0-ef71-4efe-a369-3baa64a31916)
 
 
 <!--
@@ -32,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⭐️ From [UWEPPPP](https://github.com/UWEPPPP)
+❤ From [UWEPPPP](https://github.com/UWEPPPP)
