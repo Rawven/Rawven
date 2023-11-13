@@ -1,7 +1,7 @@
 <!-- Greeting --> :wave::smiley:
 
 <!--Introduction -->
-Raven.  a **BlockChain && Backend Developer**:iphone:,
+Raven,
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Peace & Love!</b> :blush:</em>
 
