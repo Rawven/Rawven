@@ -1,9 +1,8 @@
 <!-- Greeting --> :wave::smiley:
 
 <!--Introduction -->
-Raven,
+Raven
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Peace & Love!</b> :blush:</em>
 
 <!-- Your badges -->
 <!--START_SECTION:waka-->
@@ -26,5 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-See how far these borrowed wings can fly 🦅
