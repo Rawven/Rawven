@@ -1,5 +1,3 @@
-<!-- Greeting --> :wave::smiley:
-
 <!--Introduction -->
 梦想变得厉害
 <br>
