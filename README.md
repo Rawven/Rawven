@@ -3,6 +3,9 @@
 
 <!-- Your badges -->
 <!--START_SECTION:waka-->
+- 🫡 Hi, I’m @Rawven，a second-year university student in China.
+- 🌱 I am better at java and go languages
+- 🥳 How to reach me :  jiahuiliu236@gmail.com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawven&show_icons=true&theme=tokyonight)
 <!--END_SECTION:waka-->
 
