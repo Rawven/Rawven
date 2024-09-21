@@ -3,7 +3,7 @@
 
 <!-- Your badges -->
 <!--START_SECTION:waka-->
-- 🫡 Hi, I’m @Rawven，a second-year university student in China.
+- 🫡 Hi, I’m @Rawven，a third-year university student in China.
 - 🌱 I am better at java and go languages
 - 🤔 I'm looking for an internship
 - 🥳 How to reach me :  jiahuiliu236@gmail.com
