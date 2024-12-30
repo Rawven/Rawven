@@ -3,10 +3,11 @@
 
 <!-- Your badges -->
 <!--START_SECTION:waka-->
-- 🫡 Hi, I’m @Rawven，a third-year university student in China.
+- 🫡 @Rawven，a third-year university student in GDUT.
 - 🌱 I am better at java and go languages
+- 🥳 Apollo Config Member
 - 🤔 I'm looking for an internship
-- 🥳 How to reach me :  jiahuiliu236@gmail.com
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawven&show_icons=true&theme=tokyonight)
 <!--END_SECTION:waka-->
