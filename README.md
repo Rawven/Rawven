@@ -6,7 +6,6 @@
 - 🫡 @Rawven，a third-year university student in GDUT.
 - 🌱 I am better at java and go languages
 - 🥳 Apollo Config Member
-- 🤔 I'm looking for an internship
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawven&show_icons=true&theme=tokyonight)
