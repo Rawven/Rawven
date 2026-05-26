@@ -5,7 +5,6 @@
 <!--START_SECTION:waka-->
 - Raven
 - Apollo Member
-- 普通人的英文
 
   
 
